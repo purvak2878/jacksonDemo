@@ -1,4 +1,4 @@
-package com.itr.JacksonDemo;
+package com.itr.JacksonDemo.CurrencyCoverterProject;
 public class CurrencyResponse {
 
     private String from;

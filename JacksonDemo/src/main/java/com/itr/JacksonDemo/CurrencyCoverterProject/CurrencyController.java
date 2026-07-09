@@ -1,4 +1,4 @@
-package com.itr.JacksonDemo;
+package com.itr.JacksonDemo.CurrencyCoverterProject;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

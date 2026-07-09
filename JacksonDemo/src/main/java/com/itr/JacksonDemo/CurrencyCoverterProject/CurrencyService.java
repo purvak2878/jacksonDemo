@@ -1,4 +1,4 @@
-package com.itr.JacksonDemo;
+package com.itr.JacksonDemo.CurrencyCoverterProject;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
